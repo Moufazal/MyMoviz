@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  /* background-color: #F6B352; */
+  background: rgba(246, 180, 83, 1.0);
+  background: -webkit-linear-gradient(bottom, rgba(246, 180, 83, 1.0), rgba(1, 52, 106, 1.0));
+  background: -moz-linear-gradient(bottom, rgba(246, 180, 83, 1.0), rgba(1, 52, 106, 1.0));
+  background: linear-gradient(to top, rgba(246, 180, 83, 1.0), rgba(1, 52, 106, 1.0));
+  min-height: 100vh;
+}
+
+/* Style for the trailer button */
+.btnTrailer{
+  text-decoration:none;
+  color: white;
+  font-weight: bold;
+}
+.btnTrailer:hover{
+  text-decoration:none;
+  color: white;
+  font-weight: bold;
+}
+
+
+
+
+
